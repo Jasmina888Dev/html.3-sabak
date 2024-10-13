@@ -1,0 +1,52 @@
+h1 {
+  color: aqua;
+  font-family: sans-serif;
+  font-size:40px;
+  font-weight: 600;
+  font-style: italic;
+  letter-spacing: 4;
+  background: rgb(209, 209, 201);
+}
+
+body{
+    background: white;
+}
+
+button{
+    font-size: 20;
+    width: 140;
+    hyphens: 40;
+    background: yellowgreen;
+    color: aliceblue;
+    font-weight: 800;
+    letter-spacing: 3;
+    border-radius: 10;
+    border: none;
+    border: 1px solid white;
+    -webkit-hyphens: 40;
+    -moz-hyphens: 40;
+    -ms-hyphens: 40;
+    -webkit-border-radius: 10;
+    -moz-border-radius: 10;
+    -ms-border-radius: 10;
+    -o-border-radius: 10;
+
+
+}
+
+input{
+    font-size: 18;
+    color: red;
+    outline: none;
+    border: 2px solid red;
+    border-radius: 30px;
+    width: 300px;
+    height: 35px;
+
+
+    
+}
+
+input:placeholder {
+    color: red;
+}
